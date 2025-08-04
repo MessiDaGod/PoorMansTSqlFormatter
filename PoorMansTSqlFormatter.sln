@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3049502E-2389-4C0B-88EB-485A0C4C79C1}"
 	ProjectSection(SolutionItems) = preProject
@@ -46,6 +46,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterVSPackage2013", "PoorMansTSqlFormatterVSPackage2013\PoorMansTSqlFormatterVSPackage2013.csproj", "{B1175A57-8B7B-4B8D-ACE0-3597B6B729F8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterVSPackage2019", "PoorMansTSqlFormatterVSPackage2019\PoorMansTSqlFormatterVSPackage2019.csproj", "{A160C033-3357-4BBB-9BF6-7B7D9971AD65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatter.SSMS21.VSIX", "PoorMansTSqlFormatter.SSMS21.VSIX\PoorMansTSqlFormatter.SSMS21.VSIX.csproj", "{B7226321-7962-44D4-8A0B-D2BC26ECC200}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -233,6 +235,18 @@ Global
 		{A160C033-3357-4BBB-9BF6-7B7D9971AD65}.Release|x64.Build.0 = Release|Any CPU
 		{A160C033-3357-4BBB-9BF6-7B7D9971AD65}.Release|x86.ActiveCfg = Release|Any CPU
 		{A160C033-3357-4BBB-9BF6-7B7D9971AD65}.Release|x86.Build.0 = Release|Any CPU
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Debug|PureDotNet.ActiveCfg = Debug|Any CPU
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Debug|PureDotNet.Build.0 = Debug|Any CPU
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Debug|x64.Build.0 = Debug|Any CPU
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Debug|x86.ActiveCfg = Debug|x86
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Debug|x86.Build.0 = Debug|x86
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Release|PureDotNet.ActiveCfg = Release|Any CPU
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Release|PureDotNet.Build.0 = Release|Any CPU
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Release|x64.ActiveCfg = Release|Any CPU
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Release|x64.Build.0 = Release|Any CPU
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Release|x86.ActiveCfg = Release|x86
+		{B7226321-7962-44D4-8A0B-D2BC26ECC200}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
